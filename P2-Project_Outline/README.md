@@ -7,12 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This app would depend on user-input to compile food dishes and drinks that are brought to parties and other gatherings. Many times people really enjoy a particular dish or beverage but have no idea what it is and therefore cannot purchase or attempt to make it. This app would allow people who attend a gathering to include information on food/drinks so that others can enjoy at a later time. The idea came from my own personal experience of asking party hosts who made a particular dish and them having to track the person down to get recipe information.
 ### Features
-Include Features here
+User login: Users are able to create pages for events.
+Search: Guests would be able to search for drink or food recipes. 
+Link: Link will be generated and sent out to email address of attendees 
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+JavaScript
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to generate the links for the event pages.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/SjpBNz0Z/liftoff
