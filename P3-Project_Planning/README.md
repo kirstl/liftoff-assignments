@@ -18,7 +18,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
  (https://miro.com/app/board/uXjVOWy3oJU=/)
 
 ### Project Tracker
-[VennTime Trello Board](https://trello.com/b/YHBcnb23/venntime-project-board)
+[VennTime User Stories](https://trello.com/b/3A0JuPRC/user-stories)
 
 ### Project Repo Link
 [VennTime](https://github.com/MaxraySavage/VennTime)
