@@ -10,10 +10,15 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-### Project Tracker
+- [Wireframe 1] ![IMG_1001](https://user-images.githubusercontent.com/85573707/150872468-f1752afb-fd06-4d2d-908f-c15f2a135a3a.jpg)
+ (https://miro.com/app/board/uXjVOWy3oJU=/)
+- [Wireframe 2] ![IMG_1002](https://user-images.githubusercontent.com/85573707/150872530-bbebc28a-3ff6-4af2-ae36-3fc12117432c.jpg)
+(https://miro.com/app/board/uXjVOWy3oJU=/)
+- [Wireframe 3]![IMG_1003](https://user-images.githubusercontent.com/85573707/150872560-2ec0d2be-accd-4567-8b10-f64e555b2e0c.jpg)
+ (https://miro.com/app/board/uXjVOWy3oJU=/)
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+### Project Tracker
+[VennTime Trello Board](https://trello.com/b/YHBcnb23/venntime-project-board)
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+[VennTime](https://github.com/MaxraySavage/VennTime)
